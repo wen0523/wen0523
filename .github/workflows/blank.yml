@@ -41,6 +41,8 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: stars
+          committer: ${{ github.repository_owner }} <${{ github.repository_owner }}@users.noreply.github.com>
+          author: ${{ github.repository_owner }} <${{ github.repository_owner }}@users.noreply.github.com>
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
