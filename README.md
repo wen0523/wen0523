@@ -19,4 +19,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/wen0523/wen0523/blob/master/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-![Metrics](https://github.com/wen0523/wen0523/blob/main/github-metrics.svg)
+
+![Metrics](/github-metrics.svg)
